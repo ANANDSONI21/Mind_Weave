@@ -65,22 +65,22 @@ python app.py
 ```
 
 ## 📊 Output
-- editor_output.docx → Full generated essay
-- final_answer.docx → Summarized version
+- `editor_output.docx` → Full generated essay
+- `final_answer.docx` → Summarized version
 
 
 ## 🎯 Use Cases
-1. AI-assisted research and writing
-2. Academic content generation
-3. Essay drafting and refinement
-4. Automated writing evaluation
-5. Productivity tools for students and professionals
+- AI-assisted research and writing
+- Academic content generation
+- Essay drafting and refinement
+- Automated writing evaluation
+- Productivity tools for students and professionals
 
 ## 🔮 Future Improvements
-1. Add citation and reference generation
-2. Support multiple writing styles (formal, creative, technical)
-3. Improve agent coordination with memory/context
-4. Deploy as a full-stack web application
+- Add citation and reference generation
+- Support multiple writing styles (formal, creative, technical)
+- Improve agent coordination with memory/context
+- Deploy as a full-stack web application
 
 ## 🧑‍💻Author
-**Anand** - https://github.com/ANANDSONI21
+**Anand** - [GitHub Profile](https://github.com/ANANDSONI21)

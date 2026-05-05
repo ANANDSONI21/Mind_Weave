@@ -20,6 +20,8 @@ Suggestions for improvement
 Built with Gradio for real-time user interaction
 📥 Document Export
 Outputs generated content as .docx files
+
+
 🗂️ Project Structure
 MindWeave/
 │
@@ -35,17 +37,23 @@ MindWeave/
 │   ├── editor_output.docx
 │   └── final_answer.docx
 └── requirements.txt
+
+
 🛠️ Tech Stack
 Python
 OpenAI API (LLMs)
 Gradio
 python-docx
+
+
 ⚙️ How It Works
 User inputs a topic and desired word limit
 Research Agent generates structured content
 Editor Agent converts it into a refined essay
 Summarizer Agent produces a concise version
 Critic Agent evaluates and scores the output
+
+
 📦 Installation & Setup
 1. Install dependencies
 pip install gradio python-docx openai
@@ -53,9 +61,13 @@ pip install gradio python-docx openai
 export OPENAI_API_KEY=your_api_key_here
 3. Run the application
 python app.py
+
+
 📊 Output
 editor_output.docx → Full generated essay
 final_answer.docx → Summarized version
+
+
 🎯 Use Cases
 AI-assisted research and writing
 Academic content generation
